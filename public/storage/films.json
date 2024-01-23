@@ -1,0 +1,50 @@
+[
+    {
+        "name": "La Rosa P\u00farpura del Cairo",
+        "year": 1985,
+        "genre": "Drama",
+        "img_url": "https:\/\/es.web.img2.acsta.net\/medias\/nmedia\/18\/79\/45\/34\/20253823.jpg",
+        "country": "EEUU",
+        "duration": 82
+    },
+    {
+        "name": "El Club de los Cinco",
+        "year": 1985,
+        "genre": "Comedia",
+        "img_url": "https:\/\/pics.filmaffinity.com\/El_club_de_los_cinco-192309838-large.jpg",
+        "country": "EEUU",
+        "duration": 97
+    },
+    {
+        "name": "Forrest Gump",
+        "year": 1994,
+        "genre": "Drama",
+        "img_url": "https:\/\/pics.filmaffinity.com\/Forrest_Gump-212765827-large.jpg",
+        "country": "EEUU",
+        "duration": 97
+    },
+    {
+        "name": "Arrival",
+        "year": 2016,
+        "genre": "Ciencia Ficci\u00f3n",
+        "img_url": "https:\/\/pics.filmaffinity.com\/La_llegada-686966912-large.jpg",
+        "country": "EEUU",
+        "duration": 97
+    },
+    {
+        "name": "As Bestas",
+        "year": 2022,
+        "genre": "Drama",
+        "img_url": "https:\/\/pics.filmaffinity.com\/As_bestas-275688233-large.jpg",
+        "country": "EEUU",
+        "duration": 97
+    },
+    {
+        "name": "Troya",
+        "year": "2001",
+        "genre": "Terror",
+        "country": "Espa\u00f1a",
+        "duration": "100",
+        "url_image": "https:\/\/pics.filmaffinity.com\/El_club_de_los_cinco-192309838-large.jpg"
+    }
+]
