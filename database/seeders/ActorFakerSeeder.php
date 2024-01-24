@@ -26,6 +26,7 @@ class ActorFakerSeeder extends Seeder
                 'img_url' => $faker->imageUrl(255, 255), 
                 'created_at' => now(),
                 'updated_at' => now(),
+                'situation' => 'active', // Agrega el campo 'situation' con el valor 'active'
             ]);
         }
     }
